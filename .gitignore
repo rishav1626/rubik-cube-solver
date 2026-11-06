@@ -31,3 +31,10 @@
 *.out
 *.app
 .DS_Store
+
+# Generated files
+/build/
+/CMakeCache.txt
+/Makefile
+/cmake_install.cmake
+/rubiks_cube_solver
