@@ -1,8 +1,3 @@
-//
-// Created by Lakshya Mittal on 17-12-2021.
-// Modified by Pranav Harresh on 25-07-2025.
-//
-
 #include <bits/stdc++.h>
 //#include "Model/RubiksCube3dArray.cpp"
 //#include "Model/RubiksCube1dArray.cpp"
