@@ -284,7 +284,7 @@ int main() {
 
 // CubeScanner Testing ----------------------------------------------------------------------------------
 
-    string fileName = "C:\\Users\\Pranav\\CLionProjects\\rubiks-cube-solver\\Databases\\cornerDepth5V1.txt";
+    string fileName = "Databases/cornerDepth5V1.txt";
 
     CubeScanner scanner(0);
     RubiksCubeBitboard cube;
